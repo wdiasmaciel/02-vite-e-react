@@ -1,0 +1,5 @@
+#painel {
+  /* border: .1rem blue solid; */
+  display: flex;
+  flex-direction: column;
+}
