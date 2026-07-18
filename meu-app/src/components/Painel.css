@@ -1,5 +1,12 @@
-#painel {
+.painel {
   /* border: .1rem blue solid; */
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+
+section {
+  /* border: .1rem purple solid; */
+  display: flex;
+  flex: 1;
 }

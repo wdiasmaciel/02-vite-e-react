@@ -1,0 +1,10 @@
+.area-principal {
+  /* border: .1rem #4aea4a solid; */
+  display: flex;
+  flex: 1;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  padding: 0.5rem;
+  background-color: #eee;
+}
